@@ -56,10 +56,15 @@ header h1 {
     transform: rotate(0deg) scale(1.05);
 }
 
-.badge .emoji {
-    font-size: 4rem;
+.badge .jason-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
     display: block;
-    margin-bottom: 10px;
+    margin: 0 auto 20px;
+    border: 5px solid #667eea;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
 }
 
 .badge h2 {
