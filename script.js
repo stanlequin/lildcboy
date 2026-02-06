@@ -18,7 +18,12 @@ const affirmations = [
     "Jason is DC's most adorable resident, and he knows it.",
     "Jason's brunch reservation game is stronger than most people's career goals.",
     "Jason could write a dissertation on which rooftop bars have the best views.",
-    "Jason believes the Nationals will win it all this year (again)."
+    "Jason believes the Nationals will win it all this year (again).",
+    "Jason's email address has been legendary since 10th grade.",
+    "cutelildcboy@hotmail.com: the email address that launched a thousand jokes.",
+    "Jason chose his email address with the confidence of a tiny king.",
+    "From Georgetown summer math to Data God: the cutelildcboy evolution.",
+    "That Hotmail address? Still works. Jason never forgets his roots."
 ];
 
 function generateAffirmation() {
